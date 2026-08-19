@@ -13,7 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
 public class HomeController {
     @RequestMapping("/")
     public String home(){
-        System.out.println("Home method get called ");
+        System.out.println("Home method get called");
         return "index";
     }
 

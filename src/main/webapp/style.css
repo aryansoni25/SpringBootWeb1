@@ -62,7 +62,7 @@ label {
     margin: 15px 0 5px;
 }
 
-/* Ripple Effect */
+
 @keyframes ripple {
     0% {
         transform: scale(0);
